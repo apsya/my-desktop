@@ -1,2 +1,0 @@
-# my-desktop
-linux-desktop
